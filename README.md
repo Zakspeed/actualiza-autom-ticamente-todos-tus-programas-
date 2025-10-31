@@ -1,4 +1,4 @@
-# actualiza-autom-ticamente-todos-tus-programas-
+# actualiza-automáticamente-todos-tus-programas-
 
 Este comando actualiza **todos los programas** instalados en tu sistema usando **Windows Package Manager (winget)**. Aquí te explico cada parámetro:
 ```
